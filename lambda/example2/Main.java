@@ -1,9 +1,9 @@
 import java.util.function.BiFunction;
-import java.util.function.BiPredicate;
 import java.util.function.Function;
 import java.util.function.Supplier;
+import java.util.function.BiPredicate;
 
-public class Lambdas {
+public class Main {
 
     public static void main(String[] args) {
         //COMPILE
