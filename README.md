@@ -1,8 +1,17 @@
 rm **/*.class
 find . -type f -name '*.class' -exec rm -rf {} +
 
+
+
 https://education.oracle.com/java-se-11-developer/pexam_1Z0-819
 
+git config --list
+
+git config --global --list
+git config --global --unset user.name
+git config --global --unset user.email
+
+git add . && git commit -m "java 11" && git push origin master
 
 videos vistos:
 1,2
