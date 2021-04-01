@@ -6,7 +6,7 @@ public class Warm implements IsWarmBlooded, IsColdBlooded {
     }
     
     @Override
-    double getTemperature() {//DOES NOT COMPILE: attempting to assign weaker access privileges; was public
+    public double getTemperature() {//esta obligado a sobreescribir por tuplicidad de metodos default en las interfaces
         return 0;
     }
     

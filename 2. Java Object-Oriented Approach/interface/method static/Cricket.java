@@ -1,6 +1,6 @@
 public class Cricket implements Hop {
     
-    public void printDetails() {
+    public static void printDetails() {
         System.out.println(Hop.getJumpHeight());
     }
 
