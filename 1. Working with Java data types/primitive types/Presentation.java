@@ -16,6 +16,7 @@ public class Presentation {
 
         double annoyingButLegal = 1_00_0.0_0; //Ungly, but compiles
         double reallyUngly = 1_____________2; //Also compeles
+        System.out.println(reallyUngly);
     }
 
 }
