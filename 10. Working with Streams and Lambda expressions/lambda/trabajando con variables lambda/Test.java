@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.function.Predicate;
 
-public class Main {
+public class Test {
     
     public static void main(String[] args) {
         

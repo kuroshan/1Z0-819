@@ -3,7 +3,7 @@ import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.function.BiPredicate;
 
-public class Main {
+public class Test {
 
     public static void main(String[] args) {
         //COMPILE
