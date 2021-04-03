@@ -1,4 +1,4 @@
-public class TracingScope {
+public class Test {
 
     public void eatMore(boolean hungry, int amountOfFood) {
         int roomInBelly = 5;

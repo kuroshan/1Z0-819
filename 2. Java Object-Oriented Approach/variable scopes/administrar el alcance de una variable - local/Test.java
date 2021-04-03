@@ -1,4 +1,4 @@
-public class Main {
+public class Test {
 
     public void eatIfHungry(boolean hungry) {
         if(hungry) {

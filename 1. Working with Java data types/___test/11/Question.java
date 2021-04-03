@@ -8,7 +8,7 @@ public class Question {
     //var names
     //String myArgs
     public static void main(String[] args) {
-        
+        System.out.println("ok");
     }
 
 }

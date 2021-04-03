@@ -1,4 +1,4 @@
-public class Main {
+public class Test {
 
     int _; //DOES NOT COMPILE: prohivido desde java 9
     Short short //DOES NOT COMPILE

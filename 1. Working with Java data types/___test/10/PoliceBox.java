@@ -5,7 +5,7 @@ public class PoliceBox {
         color = "blue";
         age = 1200;
     }
-    public static void main(String[] args) {
+    public static void main(String []time) {
         var p = new PoliceBox();
         var q = new PoliceBox();
         p.color = "green";

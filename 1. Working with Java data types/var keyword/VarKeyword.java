@@ -42,7 +42,7 @@ public class VarKeyword {
     }
 
     public void twoTypes() {
-        int a; var b = 3; //DOES NOT COMPILE
+        int a, var b = 3; //DOES NOT COMPILE
         var n = null; //DOES NOT COMPILE
         var a = 2, b = 3; //DOES NOT COMPILE: 'var' is not allowed in a compound declaration
     }

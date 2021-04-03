@@ -1,4 +1,4 @@
-public class NestingScope {
+public class Test {
 
     public void eatIfHungry(boolean hungry) {
         if (hungry) {

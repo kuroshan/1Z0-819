@@ -9,7 +9,7 @@ public class Question {
     //_1_3_5_0
     public void
     printMagicData() {
-        double magic = _1_3_5_0;
+        double magic =________;
         System.out.println(magic);
     }
 

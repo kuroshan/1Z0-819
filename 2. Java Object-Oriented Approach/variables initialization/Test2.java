@@ -1,4 +1,4 @@
-public class Main {
+public class Test2 {
 
     public int notValid() {
         int y = 10;

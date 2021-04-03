@@ -1,4 +1,4 @@
-public class Main {
+public class Test1 {
 
     int x, y;
     int a, int b; //DOES NOT COMPILE
