@@ -19,6 +19,7 @@ git config --global --unset user.email
 
 git add . && git commit -m "java 11" && git push origin master
 
-videos vistos:
-1,2,3,4,5,6
-simulador 01 Working with Java Data Types
+videos: 1,2,3,4,5,6
+simulador: 01 Working with Java Data Types
+videos: 7,8,9(57:40)
+simulador: 12 Annotations (FALTA DAR)

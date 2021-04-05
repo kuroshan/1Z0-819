@@ -1,0 +1,1 @@
+@Vertebrate public class Mammal {}

@@ -1,0 +1,4 @@
+@Exercise
+public class ZooEmployee {
+    
+}
