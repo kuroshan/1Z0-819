@@ -21,5 +21,8 @@ git add . && git commit -m "java 11" && git push origin master
 
 videos: 1,2,3,4,5,6
 simulador: 01 Working with Java Data Types
-videos: 7,8,9(57:40)
-simulador: 12 Annotations (FALTA DAR)
+videos: 7,8,9(57:39)
+simulador: 12 Annotations
+videos: (57:40)9,10,11(18:40)
+simulador: NO HAY
+videos: (24:27)11,
