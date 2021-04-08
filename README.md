@@ -25,4 +25,4 @@ videos: 7,8,9(57:39)
 simulador: 12 Annotations
 videos: (57:40)9,10,11(18:40)
 simulador: NO HAY
-videos: (24:27)11,
+videos: (24:27)11,12,13(FALTA 58:45)
