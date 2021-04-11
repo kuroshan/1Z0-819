@@ -52,7 +52,7 @@ public class Test {
 
 
         List<? super IOException> exceptions = new ArrayList<Exception>();
-        //exceptions.add(new Exception()); //DOES NOT COMPILE, porque en compilacion valida el lado derecho, en etse caso IOException
+        //exceptions.add(new Exception()); //DOES NOT COMPILE, porque en compilacion valida el lado izquierdo, en este caso IOException
         exceptions.add(new IOException());
         exceptions.add(new FileNotFoundException());
 
