@@ -27,5 +27,7 @@ videos: (57:40)9,10,11(18:40)
 simulador: NO HAY
 videos: (24:27)11,12,13,14
 simulador: 04 Arrays and Collections (TEST NO SUPERADO)
-videos: 15,16, 17,
+videos: 15,16,17,18
 simulador: 03 Controlling Program Flow (FALTA DAR)
+videos: 19,20,21(11:42...)
+

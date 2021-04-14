@@ -23,6 +23,11 @@ public class Test {
         //ES VALIDO
         switch (month) { }
 
+        //ES VALIDO
+        switch (month)   {
+            case 1 | 2: System.out.println("January"); 
+        }
+
         int dayOfWeek = 5;
         switch (dayOfWeek) {
             default:
@@ -34,6 +39,8 @@ public class Test {
             case 6:
                 System.out.println("Saturday");
                 break;
+            case 'a'|'b': 
+                System.out.println('c');
         }
 
         var dayOfWeekVar = 5;
@@ -46,5 +53,7 @@ public class Test {
                 System.out.println("Saturday");
                 break;
         }
+
+        
     }
 }
