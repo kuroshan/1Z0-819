@@ -29,5 +29,7 @@ videos: (24:27)11,12,13,14
 simulador: 04 Arrays and Collections (TEST NO SUPERADO)
 videos: 15,16,17,18
 simulador: 03 Controlling Program Flow (FALTA DAR)
-videos: 19,20,21(11:42...)
-
+videos: 19,20,21,22,23(REPASAR)
+simulador: 10 Streams and Lambda (FALTA DAR)
+videos: 24(REPASAR),25(REPASAR),26,
+simulador: 02 Java Object Oriented Approach (FALTA DAR)
