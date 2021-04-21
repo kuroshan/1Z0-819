@@ -29,10 +29,21 @@ videos: (24:27)11,12,13,14
 simulador: 04 Arrays and Collections (TEST NO SUPERADO)
 videos: 15,16,17,18
 simulador: 03 Controlling Program Flow (FALTA DAR)
-videos: 19,20,21,22,23(REPASAR)
+videos: 19,20,21,22,23
 simulador: 10 Streams and Lambda (FALTA DAR)
-videos: 24(REPASAR),25(REPASAR),26,27(REPASAR),28(REPASAR),29(36:30 REPASAR)
+videos: 24,25,26,27,28,29(36:30)
 simulador: 02 Java Object Oriented Approach (FALTA DAR)
-videos: (36:31)29(REPASAR),30(REPASAR)
+videos: (36:31)29,30,33
 simulador: 05 Exception Handling (FALTA DAR)
-
+videos: 31,32,36
+simulador: 08 Modules (FALTA DAR)
+videos: 34,35
+simulador: 11 Localization (FALTA DAR)
+videos: 37,38,39
+simulador: 06 Concurrency
+videos: 40,41,42,43
+simulador: 07 Java I/O + NIO
+videos: 44,45
+simulador: 09 JDBC
+videos: 46,47
+simulador: 13 Security
