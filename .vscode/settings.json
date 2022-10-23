@@ -1,0 +1,3 @@
+{
+    "java.checkstyle.configuration": "https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml"
+}

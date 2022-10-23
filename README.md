@@ -2,6 +2,8 @@ https://education.oracle.com/cat%C3%A1logo-de-productos-ouexam-pexam_1z0-819/pex
 https://education.oracle.com/java-se-11-developer/pexam_1Z0-819
 
 
+https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml
+
 
 sdk list java
 sdk default java 11.0.12-open
