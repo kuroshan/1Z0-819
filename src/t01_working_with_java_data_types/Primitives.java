@@ -41,6 +41,7 @@ public class Primitives {
         double d2 = 1323.2323D;
         float f1 = 2323.2323F;
         float f1 = 2323.2323; //Error de conversion el dato es double y la variable float
+        
 
     }
     
